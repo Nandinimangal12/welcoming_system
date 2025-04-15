@@ -1,1 +1,11 @@
-gunicorn
+ cv2 
+ gtts 
+ os  
+ time  
+ numpy  
+ face_recognition  
+ pygame.mixer  
+ threading  
+ requests  
+ imageio  
+ screeninfo
